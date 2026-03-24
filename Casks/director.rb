@@ -8,7 +8,7 @@
 
 cask "director" do
   version "1.0.0"
-  sha256 "REPLACE_WITH_SHA256_OF_DMG"
+  sha256 "1ef203d2b7bd74d13b8587011f1c7da845c568232fe15c6ae12dadd8f89cb20d"
 
   url "https://github.com/apekshik/homebrew-director/releases/download/v#{version}/TheDirector.dmg"
   name "The Director"
