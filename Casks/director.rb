@@ -7,8 +7,8 @@
 # Update VERSION and SHA256 after each release.
 
 cask "director" do
-  version "1.2.1"
-  sha256 "16e73c8a10f71ad917dba25d9c3c45602af36f0463659738e6572622fd5b7456"
+  version "1.2.2"
+  sha256 "63dff4307fca4ab3989fcb577e20f9e16800927acd7f4148c41b96495152fca3"
 
   url "https://github.com/apekshik/homebrew-director/releases/download/v#{version}/TheDirector.dmg"
   name "The Director"
